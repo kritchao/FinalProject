@@ -1,0 +1,107 @@
+body{
+    background-image: linear-gradient(#0785CE, #A1A3C5);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+button {
+    font-family: 'Open Sans', sans-serif;
+}
+h1,h2,h3,p,ul {
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 5;
+}
+
+.padding1{
+    width: 600px;
+    height: 350px;
+    padding:30px;
+    margin:auto;
+    text-align: left;
+}
+
+.padding2{
+    width: 600px;
+    height: auto;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+.imgsize {
+    width: 200px ;
+    padding: 25px;
+    float: left;
+}
+
+.block{
+    text-align: center;
+    display: block;
+}
+
+.button1{
+    background-image: linear-gradient(#0785CE, #A1A3C5);
+    border: 1px solid white;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+
+.button2{
+    background-image: linear-gradient(#CE5937, #C59237);
+    border: 1px solid white;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.button3{
+    background-image: grey;
+    border: 1px solid white;
+    width: 20px;
+    height: 20px;
+}
+
+.button4{
+    float: right;
+    border: none;
+    box-shadow: 2px 2px 7px 1px rgb(2, 6, 8);
+    
+}
+
+input[type="color"]{
+    border: none;
+    width: 18px;
+    height: 19px;
+    cursor: pointer;
+}
+
+.bgchanger{
+    padding: 5 px;
+    margin: auto;
+    position: fixed;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.addnew{
+    float: right;
+
+}
+
+.skills{
+    width: 600px;
+    margin: auto;
+
+}
+
+
+
+
+
+
+
